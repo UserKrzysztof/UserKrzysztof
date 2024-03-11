@@ -5,5 +5,4 @@
 - 👀 Looking for new opportunities to improve Data Science skills.
 - 📫 How to reach me
   - krzysztof.tkaczyk.stud@pw.edu.pl
-- 👨‍🔧 Work in progress...
 
